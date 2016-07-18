@@ -1,0 +1,67 @@
+.score{
+    font-size:6em;
+}
+#score{
+    overflow:auto;
+}
+.home, .away, .inning, .balls, .strikes, .outs{
+    box-sizing:border-box;
+    width:31.2%;
+    margin:1%;
+    float:left;
+    text-align: center;
+    padding:0 1% 1% 1%;
+}
+.arrows, .number{
+    box-sizing:border-box;
+    width:50%;
+    float:left;
+    padding:1% 2%;
+}
+.inning{
+}
+.arrows{
+    margin-top:7%;
+    text-align: right;
+}
+.number{
+    text-align:left;
+}
+.arrow{
+    font-size: 3em;
+    text-align: right;
+}
+.arrowlink, .arrowlink:hover, .arrowlink:visited, .arrowlink:active{
+    color:#000;
+}
+
+.ball1, .ball2, .ball3{
+    float:left;
+    width:33.333%;
+}
+
+.strike1, .strike2, .out1, .out2{
+    float:left;
+    width:50%;
+}
+
+.info, .buttons{
+    padding:1%;
+    overflow:auto;
+    text-align: center;
+}
+
+.button{
+    width:50%;
+}
+.btns{
+    width:25%;
+    float:left;
+}
+
+
+
+
+
+
+
