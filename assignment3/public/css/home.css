@@ -1,0 +1,25 @@
+.navbar{
+	margin-bottom:0;
+}
+.main_section{
+	width:99.9999%;
+	margin-top:0;
+}
+
+.leagues{
+	padding:1%;
+	margin:1% auto;
+}
+
+.league{
+	padding:1%;
+}
+
+.league h3{
+	text-align: center;
+	text-decoration: underline;
+}
+
+.mainImage{
+	width:100%;
+}

@@ -1,0 +1,51 @@
+.team{
+	width:50%;
+}
+
+.league{
+	width:20%;
+}
+
+.month, .day{
+	width:10%;
+	float:left;
+	margin-right:1%;
+}
+
+table{
+	width:100%;
+	overflow: auto;
+}
+th{
+	border-bottom:1px solid black;
+	text-align: center;
+	width:25%;
+	overflow: auto;
+}
+td{
+	padding:1.5%;
+	text-align: center;
+	overflow: auto;
+
+}
+
+.level{
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.gamesPlayed{
+	width:10%;
+}
+
+.btn{
+	margin: 1% 0;  
+}
+
+.scores{
+	padding: 1%;
+}
+
+.scoreBlock{
+	border-bottom: 1px solid black;
+}
